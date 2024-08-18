@@ -1,0 +1,9 @@
+{
+  "hello": "नमस्ते",
+  "news": "समाचार",
+  "selected_language": "चयनित भाषा है",
+  "select_language": "भाषा चुने",
+  "drinks": {
+    "snacks": "नाश्ता"
+  }
+}

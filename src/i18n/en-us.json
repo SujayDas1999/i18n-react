@@ -1,0 +1,9 @@
+{
+  "hello": "Hello",
+  "news": "News",
+  "selected_language": "Selected language is",
+  "select_language": "Select Language",
+  "drinks": {
+    "snacks": "Snacks"
+  }
+}
